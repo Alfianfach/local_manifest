@@ -3,7 +3,7 @@
 
         <!-- Sync trees -->
         <project path="device/xiaomi/fog" name="alternoegraha/device_xiaomi_fog" remote="github" revision="aosp" />
-        <project path="vendor/xiaomi/fog" name="dblenk-project/vendor_xiaomi_fog" remote="github" revision="lineage-20" />
+        <project path="vendor/xiaomi/fog" name="dblenk-project/vendor_xiaomi_fog" remote="github" revision="cr-13" />
         <project path="kernel/xiaomi/fog" name="dblenk-project/kernel_xiaomi_fog_header" remote="github" revision="lineage-20" />
         
         <!-- hardware/xiaomi -->
